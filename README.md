@@ -1,15 +1,15 @@
-# PixelDrawer 
+# TallyClickCounter
 
-Pixel Drawer is a game when you can draw in your navigator with a pixel grid.
+TallyClickCounter is a game when you can click one the button for count who many click you do.
 If you want try Pixel drawer you can  on this link
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/02e1925d-34c6-41d6-a9da-3be650d62b50/deploy-status)](https://app.netlify.com/sites/pixel-drawer/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aca71baf-3ebb-4ff9-900d-44997f7727c4/deploy-status)](https://app.netlify.com/sites/tallyclickcounter/deploys)
 
-https://pixel-drawer.netlify.app
+https://tallyclickcounter.netlify.app/
 
 or you can download him in your computer if you are already github on your computer 
     
-    git clone https://github.com/Noh4m/PixelDrawer
+    git clone https://github.com/Noh4m/TallyClickCounter
     
 If you don't have Github you can follow the instruction on this site for download him
    
