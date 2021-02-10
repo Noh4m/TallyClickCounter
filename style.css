@@ -30,11 +30,13 @@ article {
     top: 50%;
     left: 5%;
     width: 300px;
+    transform: translate(-0%, -50%);
 
 }
 
 article>p {
     font-size: 25px;
+
 }
 
 
