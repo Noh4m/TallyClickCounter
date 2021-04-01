@@ -11,6 +11,6 @@ or you can download him in your computer if you are already github on your compu
     
     git clone https://github.com/Noh4m/TallyClickCounter
     
-If you don't have Github you can follow the instruction on this site for download him
+If you don't have Git you can follow the instruction on this site for download him
    
    https://git-scm.com/download/win
